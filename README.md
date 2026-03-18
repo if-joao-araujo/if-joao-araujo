@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student of systems analysis and development at ifpe. I seek to grow professionally through technology.
+
 
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jom-araujo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:if.joao.araujo@gmail.com) 
