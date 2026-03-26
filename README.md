@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT student focused on backend development with Java (Spring Boot, MySQL), networking, or cybersecurity with a focus on penetration testing.
+IT student focused on backend development with Java (Spring Boot, MySQL) or cybersecurity with a focus on penetration testing.
 
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jom-araujo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:if.joao.araujo@gmail.com) 
